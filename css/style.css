@@ -1,0 +1,27 @@
+body {
+  margin: 60px;
+}
+
+header {
+  border: 1px black solid;
+}
+
+img {
+  margin-left: 32%;
+  padding-top: 30px;
+}
+
+h1 {
+  padding: 30px;
+}
+
+section,
+footer {
+  margin: 10px;
+}
+
+footer {
+  font-size: 180%;
+  color: purple;
+  text-align: center;
+}
